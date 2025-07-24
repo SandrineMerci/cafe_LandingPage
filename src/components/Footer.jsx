@@ -12,10 +12,10 @@ export default function Footer() {
             Discover your ideal workspace with us.<br /> Work smart, not hard in our <br /> fully-equipped office spaces.
           </p>
           <div className="flex gap-4 mt-4 text-[var(--primary-color-600)] text-xl">
-            <Facebook color="#639905" />
-            <Twitter color="#639905" />
-            <Linkedin color="#639905" />
-            <Instagram color="#639905" />
+            <Facebook color="#00816e" />
+            <Twitter color="#00816e" />
+            <Linkedin color="#00816e" />
+            <Instagram color="#00816e" />
           </div>
         </div>
 
